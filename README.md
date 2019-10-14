@@ -21,7 +21,7 @@
 
     ```
     cd themes
-    git clone https://github.com/jangdelong/hexo-theme-xups.git
+    git clone https://github.com/guotie/hexo-theme-xups.git
     ```
 
 3. 配置 _config.yml 的 theme 配置
